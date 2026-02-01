@@ -1,0 +1,2 @@
+# DO NOT USE REAL KEYS! This is a fake one for testing.
+AWS_ACCESS_KEY = "AKIA1234567890FAKEKEY"
